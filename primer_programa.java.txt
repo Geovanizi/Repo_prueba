@@ -2,3 +2,4 @@
 Int cedula;
 String nombre;
 float ventas;
+date fecha;
