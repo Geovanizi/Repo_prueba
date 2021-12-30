@@ -1,0 +1,4 @@
+
+Int cedula;
+String nombre;
+float ventas;
